@@ -1,4 +1,6 @@
 Flask
 transformers
+tensorflow
+torch
 pysqlite3 
 gunicorn
