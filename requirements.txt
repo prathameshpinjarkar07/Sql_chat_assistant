@@ -1,6 +1,7 @@
 Flask
 transformers
 tensorflow
+tf-keras
 keras
 torch
 pysqlite3 
