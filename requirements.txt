@@ -1,6 +1,7 @@
 Flask
 transformers
-tensorflow
+tensorflow=2.12
+keras=2.12
 torch
 pysqlite3 
 gunicorn
